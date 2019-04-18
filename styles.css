@@ -1,0 +1,9 @@
+body{
+  background-color:#797220;
+  border-color:#a5725f;
+  }
+
+main{
+  display: flex;
+  justify-content: space-evenly;
+  }
